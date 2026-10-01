@@ -1,0 +1,6 @@
+{
+  "name": "DayByDay - Návyky & Fakta",
+  "description": "Sledujte své denní úkoly a získávejte za každý splněný cíl nová, neopakující se fascinující fakta poháněná Gemini AI. Připraveno k instalaci na plochu telefonu.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
